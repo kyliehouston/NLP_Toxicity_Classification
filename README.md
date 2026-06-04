@@ -1,12 +1,10 @@
 # Toxicity Classification in Gaming Chat
 
-**CS 490: Natural Language Processing — Spring 2026, Purdue University**
-
 Kylie Houston, Suhaas Nachannagari, Rishi Shekhar, Josh Rubow
 
 ## Overview
 
-This file provides instructions to run each of our 4 models individually
+This file provides instructions to run each of our 4 models individually. For the sake of public publishing, actual code files have been redacted. See NLP_Toxicity_Report.pdf for the foundations, results, and reflections of our study.
 
 ## Models
 
